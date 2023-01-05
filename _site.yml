@@ -1,0 +1,23 @@
+name: "サイトタイトル"
+cover-image: "./data/cover_image.png"
+navbar: 
+  title: "三髙法律事務所"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+  
+  right:
+    - text: "お問い合わせ"
+      href: inquiry.html
+      
+output:
+  html_document:
+    theme: darkly
+    highlight: espresso
+    toc: false
+    toc_float:
+      collapse: false
+    df_print: "kable"
+    css: site_style.css
+output_dir: "docs"
