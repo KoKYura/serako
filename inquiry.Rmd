@@ -5,7 +5,15 @@ output:
     self_contained: false
 ---
 
-下記電話番号またはお問い合わせフォームよりお問い合わせください。   
+<br>
+
+下記メールアドレスよりお問い合わせください。   
+
+<br>
+
+samko-law!outlook.jp
+
+(!を@に変えて下さい)
 
 <br>
 
