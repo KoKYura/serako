@@ -15,6 +15,7 @@ output:
 
   gtag('config', 'G-7WHKSS4NSD');
 </script>
+<!-- Google tag (gtag.js) -->
 
 <br>
 
