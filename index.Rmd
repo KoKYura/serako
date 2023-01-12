@@ -6,7 +6,9 @@ output:
       in_header: hero-image.html
 ---
 
+
 <!-- Google tag (gtag.js) -->
+<head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WHKSS4NSD"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,6 +17,7 @@ output:
 
   gtag('config', 'G-7WHKSS4NSD');
 </script>
+</head> 
 <!-- Google tag (gtag.js) -->
 
 <br>
